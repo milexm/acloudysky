@@ -1,2 +1,2 @@
 # acloudysky
-https://acloudysky.com/ blog backup. 
+Backup for the blog: https://acloudysky.com/. 
